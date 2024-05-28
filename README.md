@@ -1,1 +1,1 @@
-Sieve of Eratosthenes code to check whether a number is prime or not, using Python. For numbers until 9x10^9, the execution time is less than 1 second, but for numbers over 10^8 the code is inefficient. Please, if you know a better way or find an error, talk to me.
+Sieve of Eratosthenes code to check whether a number is prime or not, using Python. For numbers until 9x10^7, the execution time is less than 1 second, but for numbers over 10^8 the code is inefficient. Please, if you know a better way or find an error, talk to me.
